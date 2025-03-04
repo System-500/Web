@@ -1,0 +1,219 @@
+﻿.header{background:#D3D3D3;
+margin:0px;
+display:none;
+}
+#imgheader{width:200px;height:150px;
+float: left;
+display:none;
+margin-left:1555px;}
+#zagolovok{margin-left:227px;}
+.header img{margin-left: 11px;
+margin-top:11px;
+display:none;
+
+}
+#zagolovok a{font-size:25px}
+body{background:silver}
+#followus{float:right}
+#followus img{width:35px; height:35px}
+#podcastfoto, #podcastfoto1, #podcastfoto2,#podcastfoto3,#podcastfoto4{
+	width:150px; height:150px;
+	border: 3px solid black;
+	margin:5px
+	
+}
+.podcast3d p{
+	float:right;
+	font-family:Comic Sans MS;
+	
+}
+.podcast3d{margin-top:55px;width:450px; height:220px;
+}
+.amenu3,.amenu4,.cina1,.amenu5 ,.amenu6,.cina2,.amenu7,.amenu8,.cina3,.cina4,.amenu9,.amenu10{
+	display:none;
+	font-size:20px;
+	text-decoration:none;
+	
+}
+.amenu1 ,.amenu2,.cina{font-size:20px;
+display:none;
+	text-decoration:none;}
+#menu1, #menu2{
+	display:none;
+}
+#main{width:100%; height:100%}
+#content{display:none;
+font-size:0px;}
+.podcastarc{margin-top:55px;width:500px; height:220px}
+.podcastarc p{
+	float:right;
+	font-family:Comic Sans MS;
+}
+#podcasts{width:560px;}
+#sortable { list-style-type: none; margin: 0; padding: 0; }
+#sortable li { margin: 5px; padding-bottom: 10px;}
+.ui-state-highlight { height: 1.5em; line-height: 1.2em; }
+
+.koshik-wrapper{
+    border: 2px #620808 solid;
+    min-height: 200px;
+    height: auto;
+    width: 100%;
+    margin-bottom: 15px;
+}
+ 
+
+.full-koshik{
+    border: 3px rgb(5, 167, 40) solid;
+}
+.clasort{
+    color: #000000;
+    text-decoration: none;
+	background:#878787;}
+	.clasort a{
+    color: #3a0303;
+    }
+	#span, #span1,#span2,#span3,#span4{
+	width:20px;
+	height:50px;
+	display:inline-block;
+	background:url(../imkurs/arrow-icon1.png)no-repeat 0px 0px;
+	}
+	
+#strelka{width:30px;
+	height:40px;
+	margin-left:475px}
+#dialod3d, #dialodarc,#dialodshiza,#dialodpyh,#dialodborch{
+	display:none;
+	
+}
+.ui-icon{background-image:url(../css/ui-icons_444444_256x240.png)!important;}
+.podcastshiza{margin-top:55px;width:500px; height:220px}
+.podcastshiza p{
+	float:right;
+	font-family:Comic Sans MS;
+}
+#modal{text-decoration:none;}
+.footer{
+	color: black;
+    font-size: 15px;
+    margin: 40px 5px 5px 5px;
+    background-color: #afafaf;
+    position: relative;
+    text-align: center;
+	
+}
+    .slider {
+    overflow: hidden;
+    margin-top: 30px;
+    position: relative;
+    
+    }
+    .slider ul,
+    .slider li {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    }
+    .slider ul {
+    width: 9999px;
+    }
+    .slider ul li {
+    list-style-type: none;
+    float: left;
+    width: 700px;
+    height: 290px;
+    }
+    .slider .nav {
+    position: absolute;
+    left: 150px;
+    bottom: 2px;
+    }
+    .slider .nav span {
+    opacity: 0.9;
+    background: #fff;
+    margin: 0 8px 0 0;
+    width: 16px;
+    height: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    overflow: hidden;
+    display: block;
+    float: left;
+    box-shadow: 0 1px 2px #000;
+    }
+    .slider .nav span.on {
+    background: #2e9419;
+    }
+	#sliderfoto{    width: 250px;
+    height: 250px;
+	margin-left:25px;
+	margin-top:25px
+	}
+	.slider {width:400px;
+	height:500px;
+	border: solid 1px black
+	}
+	#asl{text-decoration: none;
+	}
+	#spl{    float: left;
+	    width: 100%;
+    height: 100%;}
+	.news{color:#8f0303;
+	font-size:25px;
+	text-decoration:underline}
+	#aaa{
+		margin-left:20px
+	}
+	#secret, #secret1{
+		display:none;
+		width:560px; height:220px
+	}
+	#asec{
+		font-size:25px;
+		margin:15px;
+		display: inline-block;
+		background:#b7b700f2;
+		
+	}
+.podcastpyh{
+	margin-top: 55px;
+    width: 415px;
+    height: 220px;
+}
+.podcastpyh p{
+	float: right;
+    font-family: Comic Sans MS;
+}
+.podcastborch{
+	margin-top: 55px;
+    width: 526px;
+    height: 220px;
+}
+.podcastborch p{
+	float: right;
+    font-family: Comic Sans MS;
+}
+#text{font-size:21px;
+opacity:.005;
+display:none;}
+#vidpr,#oform{width:200px; height:25px}
+#c{
+	    width: 250px;
+    height: 150px
+}
+#ava{width: 50px;
+    height: 50px;
+	
+	MARGIN:5px;
+	display:block;}
+	
+	#komb{width:500px;
+	border: 1px solid black;}
+	
+	.mn{font-weight:bolder;
+	}
+	#zamovlena{
+		margin: 15px;
+    font-size: 23px;
+	}
